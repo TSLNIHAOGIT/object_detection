@@ -1,0 +1,150 @@
+item {
+  id:1
+  name:'alibaba'
+}
+
+item {
+  id:2
+  name:'baidu'
+}
+
+item {
+  id:3
+  name:'bjtv'
+}
+
+item {
+  id:4
+  name:'cctv'
+}
+
+item {
+  id:5
+  name:'emblem'
+}
+
+item {
+  id:6
+  name:'hntv'
+}
+
+item {
+  id:7
+  name:'huawei'
+}
+
+item {
+  id:8
+  name:'jstv'
+}
+
+item {
+  id:9
+  name:'lenovo'
+}
+
+item {
+  id:10
+  name:'lexus'
+}
+
+item {
+  id:11
+  name:'lincoln'
+}
+
+item {
+  id:12
+  name:'starbucks'
+}
+
+item {
+  id:13
+  name:'supor'
+}
+
+item {
+  id:14
+  name:'suzuki'
+}
+
+item {
+  id:15
+  name:'tcl'
+}
+
+item {
+  id:16
+  name:'tencent'
+}
+
+item {
+  id:17
+  name:'tesla'
+}
+
+item {
+  id:18
+  name:'toshiba'
+}
+
+item {
+  id:19
+  name:'toyota'
+}
+
+item {
+  id:20
+  name:'tsingdao'
+}
+
+item {
+  id:21
+  name:'vatti'
+}
+
+item {
+  id:22
+  name:'vivo'
+}
+
+item {
+  id:23
+  name:'volvo'
+}
+
+item {
+  id:24
+  name:'walmart'
+}
+
+item {
+  id:25
+  name:'wanda'
+}
+
+item {
+  id:26
+  name:'wuliangye'
+}
+
+item {
+  id:27
+  name:'xiaomi'
+}
+
+item {
+  id:28
+  name:'yonghui'
+}
+
+item {
+  id:29
+  name:'yuantong'
+}
+
+item {
+  id:30
+  name:'zjtv'
+}
+
